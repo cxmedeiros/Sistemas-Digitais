@@ -1,5 +1,6 @@
 # Sistemas-Digitais
-PDF dos projetos feitos na cadeira de Sistemas Digitais
+PDF dos projetos feitos na cadeira de Sistemas Digitais!
+
 Neste primeiro trabalho, relativo à disciplina de sistemas digitais, estão contidas
 as etapas de elaboração de uma Unidade Lógica e Aritmética (ULA) acoplada a
 um display de 7 segmentos que reproduz os números. A fim de otimizar o seu
