@@ -7,6 +7,7 @@ desenvolvimento, os estudantes seguiram uma filosofia de modularização. Ou
 seja, o projeto foi iniciado a partir do estudo de cada unidade básica que
 compõe uma ULA e, em seguida, ocorreu a união de cada uma dessas partes
 funcionando corretamente, formando o sistema final desejado.
+
 O projeto da segunda unidade da disciplina Sistemas Digitais, consiste na aplicação dos assuntos
 explorados em aula, através da implementação de módulos de transmissão e recepção
 compatíveis com o protocolo UART (Universal asynchronous receiver/transmitter).
